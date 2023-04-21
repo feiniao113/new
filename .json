@@ -55,6 +55,14 @@
       "type": "web",     
        "desc": "",
       "show": true
+    },
+    {
+      "name": "老狼 恋恋风尘",
+      "pic":"https://user-images.githubusercontent.com/128656815/233697040-452c23ab-9f5f-44f4-9f8a-cd41f1adc3d7.png",
+      "url": "https://streamja.com/JVyOl",
+      "type": "web",     
+       "desc": "",
+      "show": true
     }
   ]
 }
