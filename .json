@@ -2,7 +2,7 @@
 	"data": [
 		{
 			"name": "血色浪漫",
-			"pic": "https://github.com/feiniao113/xueselangman/blob/main/xueselangman.png",
+			"pic": "https://raw.githubusercontent.com/feiniao113/xueselangman/main/xueselangman.png",
 			"url": "",
 			"type": "search",
 			"desc": "电视剧",
@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "倚天屠龙记",
-			"pic": "https://github.com/feiniao113/yitiantulongji/blob/main/yitiantulongji.png",
+			"pic": "https://raw.githubusercontent.com/feiniao113/yitiantulongji/main/yitiantulongji.png",
 			"url": "",
 			"type": "search",
 			"desc": "电影",
@@ -18,7 +18,7 @@
 		},
 		{
 			"name": "庆余年",
-			"pic": "https://github.com/feiniao113/qingyunian/blob/main/qingyunian.png",
+			"pic": "https://raw.githubusercontent.com/feiniao113/qingyunian/main/qingyunian.jpg",
 			"url": "",
 			"type": "search",
 			"desc": "电视剧",
@@ -26,7 +26,7 @@
 		},
 		{
 			"name": "雪中悍刀行",
-			"pic": "https://github.com/feiniao113/xuezhonghandaoxing/blob/main/xuezhonghandaoxing.png",
+			"pic": "https://raw.githubusercontent.com/feiniao113/xuezhonghandaoxing/main/xuezhonghandaoxing.png",
 			"url": "",
 			"type": "search",
 			"desc": "电视剧",
