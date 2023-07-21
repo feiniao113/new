@@ -1,21 +1,6 @@
 {
 	"data": [
-		{
-			"name": "血色浪漫",
-			"pic": "https://raw.githubusercontent.com/feiniao113/xueselangman/main/xueselangman.png",
-			"url": "",
-			"type": "search",
-			"desc": "电视剧",
-			"show": true
-		},
-		{
-			"name": "倚天屠龙记",
-			"pic": "https://raw.githubusercontent.com/feiniao113/yitiantulongji/main/yitiantulongji.png",
-			"url": "",
-			"type": "search",
-			"desc": "电视剧",
-			"show": true
-		},
+		
 		{
 			"name": "庆余年",
 			"pic": "https://raw.githubusercontent.com/feiniao113/qingyunian/main/qingyunian.jpg",
